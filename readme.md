@@ -1,4 +1,4 @@
-# Smash Remix
+#Smash Remix
 *A Super Smash Bros. 64 Mod Organized by The_Smashfather*
 
 ## Building
